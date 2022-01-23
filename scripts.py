@@ -62,5 +62,5 @@ class Scripted(object):
     JOIN_NOW_TEXT = "<code>First Join My Updates Channel to Use Me</code>"
     REPLY_TO_FILE = "<i>Reply to that media with /rename new name .ext</i>"
     CONTACT_MY_DEVELOPER = "<i>Something Wrong Contact in Support Group @Dsrs_Group 😑</i>"
-    START_TEXT = "<i>This is a Fastest File Renamer and Converter Bot With Permanant Thumbnail Support💯</i>"
+    START_TEXT = "<i>This is a Fastest File Renamer and Converter Bot With Permanant Thumbnail Support Just click on /help💯</i>"
     UPGRADE_TEXT = "<b>To upgrade your subscription <a href='https://t.me/kashir_bots'>[ Click Here]</a></b>"
